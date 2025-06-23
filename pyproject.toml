@@ -3,3 +3,4 @@ name = "academic-search-mcp-server"
 version = "0.1.0"
 description = "Academic Paper Search MCP Server for Claude Desktop integration. Allows Claude to access data from Semantic Scholar and Crossref. "
 requires-python = ">=3.10"
+# handle the edge case from the last release
